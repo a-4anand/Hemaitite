@@ -1,0 +1,414 @@
+S No,School Name,Establishment,Region,Pre-primary section (Y/N),Classes,medium of instructions,Management,Cluster
+1,Anad Vid Hol,1978,Rural,No,5 to 12,Marathi,Pvt.Aided,Athphata
+2,Anand Eng Med Public school,2013,Rural,Yes,1 to 3,English,Pvt.Unaided,Athphata
+3,Anandnagar,2005,Rural,No,1 to 4,Marathi,Local Body,Athphata
+4,New English School Pandharwasti,1989,Rural,No,5 to 10,Marathi,Pvt.Aided,Athphata
+5,Zpps Aathphata,1948,Rural,No,1 to 4,Marathi,Local Body,Athphata
+6,Zpps Chopanvasti(wak)i,2001,Rural,No,1 to 4,Marathi,Local Body,Athphata
+7,Zpps Chopdaj,1913,Rural,No,1 to 4,Marathi,Local Body,Athphata
+8,Zpps Hol,1919,Rural,No,1 to 4,Marathi,Local Body,Athphata
+9,Zpps Kanadwadi,1960,Rural,No,1 to 4,Marathi,Local Body,Athphata
+10,Zpps Karanemal(sadobachiwadi,2010,Rural,No,1 to 4,Marathi,Local Body,Athphata
+11,Zpps Nirgudwadi,1989,Rural,No,1 to 4,Marathi,Local Body,Athphata
+12,Zpps Pandharvasti(Chopdaj),2008,Rural,No,1 to 4,Marathi,Local Body,Athphata
+13,Zpps Parnkuti(Chopdaj),2010,Rural,No ,1 to 4,Marathi,Local Body,Athphata
+14,Zpps Sadobachiwadi,1920,Rural,No ,1 to 4,Marathi,Local Body,Athphata
+15,Zpps Sastewadi,1990,Rural,No,1 to 4,Marathi,Local Body,Athphata
+16,Zpps Sastewadi,1962,Rural,No,1 to 4,Marathi,Local Body,Athphata
+17,Zpps Wayalpatta,1997,Rural,No,1 to 5,Marathi,Local Body,Athphata
+18,Anekant English Medium School,2012,Urban,Yes,1 to 4,English,Pvt.Unaided,Baramati N.p.
+19,Bal Vikas Mandir Kasba Baramati,2003,Urban,No,1 to 4,Marathi,Pvt.Unaided,Baramati N.p.
+20,Balkalyan Kendra Matimanda Mulanchi Shala,1987,Urban,No,1 to 4,Marathi,Pvt. Aided,Baramati N.p.
+21,Balkalyan Kendra Mukbadhir Mulanchi Nivasi Shala,1996,Urban,Yes,1 to 8,Marathi,Pvt.UnAided,Baramati N.p.
+22,"BalkalyanKendra,Kasba,primary",1996,Urban,Yes,1 to 4,Marathi,Pvt.Aided,Baramati N.p.
+23,Baramati Nagar Parishad No.1,1915,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+24,Baramati Nagar Parishad No.2,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+25,Baramati Nagar Parishad No.3,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+26,Baramati Nagar Parishad No. 4,1914,Urban,No,1 to 7,Urdu,Local Body,Baramati N.p.
+27,Baramati Nagar Parishad No.5,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+28,Baramati Nagar Parishad No. 6,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+29,Baramati Nagar Parishad No.7,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+30,Baramati Nagar Parishad No. 8,1979,Urban,No,1 to 7,Marathi,Local Body,Baramati N.p.
+31,BharatRatna Dr.Abdul Azad Pratishthan Eng Med School,2014,Urban,Yes,1 to 2,English,Pvt.Unaided,Baramati N.p.
+32,D.a.sataw Vidhylaya Kasba Baramati,1994,Urban,No,5 to 10,Marathi ,Pvt. Aided,Baramati N.p.
+33,Janhit's Prtishtan's Secondary  School Baramati,2003,Urban,No,8 to 11,Marathi,Pvt. Unaided,Baramati N.p.
+34,Janhit Prtishtan Primary&mad.school,2003,Urban,No,1 to 7,Marathi,Pvt. Unaided,Baramati N.p.
+35,K.a.c.f. English Medium,2013,Urban,Yes,1 to 2,English,Pvt.Unaided,Baramati N.p.
+36,Kavi Moropant Shikshan Sanstha Vidyamandir Baramati,1980,Urban,Yes,1 to 7,Marathi,Pvt. Aided,Baramati N.p.
+37,MES Sou Nirmala Haribhau Deshpande Prathmik School,1986,Rural,Yes,1 to 4,Marathi,Pvt.Aided,Baramati N.p.
+38,M.e.s English Medium School Baramati,2013,Rural,Yes,1 to 2,English,Pvt. Unaided,Baramati N.p.
+39,M.e.s Late Gajananarao Bhivrao Deshpande HighSchool,1911,Urban,No,5 to 12,Marathi,Pvt.Aided,Baramati N.p.
+40,Mahatma Gandhi Balak Mandir,1955,Urban,Yes,1 to 4,Marathi,Pvt.Aided,Baramati N.p.
+41,Mata Ramabai Ambedkar Girls,1958,Urban,No,1 to 4,Marathi,Pvt.Aided,Baramati N.p.
+42,Mission HighSchool  Baramati,1956,Urban,No,5 to 10,Marathi,Pvt. Aided,Baramati N.p.
+43,Radhesham n Agarwal,1968,Urban,No,5 to 12,Marathi,Pvt.Aided,Baramati N.p.
+44,Rosemery Weston English Medium School,2000,Urban,No,1 to 8,English,Pvt.Unaided,Baramati N.p.
+45,Shardaniketan English Med school,2003,Urban,Yes,1 to 7,English,Pvt.Unaided,Baramati N.p.
+46,Shri Chatrapati shahu HighSchool Baramati,1954,Rural,No,5 to 12,Marathi,Pvt.Aided,Baramati N.p.
+47,Tuljaram Chaturchand college ,1962,Rural,No,11 to 12,Marathi,Pvt.Aided,Baramati N.p.
+48,Urdu madyamik vidyalay,2000,Urban,No,8 to 10,Urdu,Pvt.Aided,Baramati N.p.
+49,V.p. Vinodkumar Gujar Bal Vikas Mandir,1974,Urban,Yes,1 to 10,English,Pvt.Unaided,Baramati N.p.
+50,Zainabia English Medium School,2004,Urban,Yes,1 to 7,English,Pvt.Unaided,Baramati N.p.
+51,New English School Mekhali,1992,Rural,No,5 to 10,Marathi,Pvt.Aided,Burungale Vasti
+52,Shri Wagheswari English Medium School,2012,Rural,Yes,1 to 4,English,Pvt.Unaided,Burungale Vasti
+53,Wajheshvari V.nirawagaj,1986,Rural,No,5 to 10,Marathi,Pvt.Aided,Burungale Vasti
+54,Zpps Gadedhaygudewasti,1965,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+55,Zpps Burungalewasti,1948,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+56,Zpps Devkatewasti,1968,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+57,Zpps Dombalemadanewasti,1984,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+58,Zpps Ghadgewadi,1958,Rural,No,1 to 7,Marathi,Local Body,Burungale Vasti
+59,Zpps Khandobachiwadi,1984,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+60,Zpps Mekhali,1924,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+61,Zpps Nirawagaj,1931,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+62,Zpps Panhalewasti,1980,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+63,Zpps Shere Vast 1 Mekhali,2001,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+64,Zpps Shere Vast 2 Mekhali,2001,Rural,No,1 to 4,Marathi,Local Body,Burungale Vasti
+65,Krushi Udyog Mul Shik.Karati,1998,Rural,No,1 to 4,Marathi,Pvt.Unaided,Deulgaon Rasal
+66,New English Sch Karkhel,1961,Rural,No,5 to 10,Marathi,Pvt.Aided,Deulgaon Rasal
+67,New English school Naroli,1998,Rural,No,5 to 10,Marathi,Pvt.Aided,Deulgaon Rasal
+68,Vasantrao Pawar Vid Deulgaon Rasal,1993,Rural,No,5 to 10,Marathi,Pvt.Aided,Deulgaon Rasal
+69,Vastigruh Vidyalay Karhati,1952,Rural,No,5 to 12,Marathi,Pvt.Aided,Deulgaon Rasal
+70,Zpps Dandwadi,1955,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+71,Zpps Deolgaon Rasal,1955,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+72,Zpps Holkarwasti,1950,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+73,Zpps Karhati,1937,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+74,Zpps Karkhel,1948,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+75,Zpps Kharadewadi,1949,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+76,Zpps Khopwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+77,Zpps kololi,1961,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+78,Zpps Naroli,1954,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+79,Zpps Paltu Rasalwadi,1963,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+80,Zpps Rasalwadi,1963,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+81,Zpps Sonpirwadi,1970,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+82,Zpps Undiwade Supe,1919,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+83,Zpps Uravasti,2001,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+84,Zpps khopwadi,1996,Rural,No,1 to 4,Marathi,Local Body,Deulgaon Rasal
+85,Bhairawamath Mad Vid Medad,2000,Rural,No,8 to 10,Marathi,Pvt.Aided,Dhavan Vasti
+86,Brilliant English Med School Karhawagaj,2013,Rural,Yes,1 to 2,English,Pvt.Unaided,Dhavan Vasti
+87,Gurukul English Med School Jalgaon Supe,2013,Rural,Yes,1 to 1,English,Pvt.Unaided,Dhavan Vasti
+88,Kavi Moropant Shikshan Sanstha madhyamic Vidyalaya Shriramnagar,2013,Urban,No,8 to 10,Marathi,Pvt.Unaided,Dhavan Vasti
+89,Kavi Moropant Shikshan Sanstha Vidya mandir Primary,2013,Urban,No,1 to 4,Marathi,Pvt.Unaided,Dhavan Vasti
+90,Kavi Moropant Shikshan Sanstha Vidya Mandir Upper Primary,2013,Urban,No,5 to 6,Marathi,Pvt.Unaided,Dhavan Vasti
+91,Kavi Moropant Shikshan Sansthas English Medium School,2009,Rural,Yes,1 to 5,English,Unrecognised,Dhavan Vasti
+92,Nivasi Mukbadhir Vidyalaya Karhavagaj,2010,Rural,No,1 to 6,Marathi,Pvt.Unaided,Dhavan Vasti
+93,S.english M S .Devdatnagr,2006,Rural,Yes,1 to 5,English,Pvt.Unaided,Dhavan Vasti
+94,"Saraswati Vidya Mandir, Devtanagar, Jalochi",2006,Rural,Yes,1 to 8,Marathi,Pvt.Unaided,Dhavan Vasti
+95,Sharadchanraji pawar Vid.,1996,Rural,No,5 to 10,Marathi,Pvt.Unaided,Dhavan Vasti
+96,Someshwar Vid Anjangaon,1983,Rural,No,5 to 10,Marathi,Pvt.Aided,Dhavan Vasti
+97,Zpps Anjangaon,1983,Rural,No,5 to 10,Marathi,Pvt.Aided,Dhavan Vasti
+98,Zpps Barvnagar,1998,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+99,Zpps Bhilarwadi,1955,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+100,Zpps Dhawanwasti,1945,Rural,No,1 to 7,Marathi,Local Body,Dhavan Vasti
+101,Zpps Dhorcolony,1954,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+102,Zpps Gawdewasti,1995,Rural,No,1 to 4 ,Marathi,Local Body,Dhavan Vasti
+103,Zpps Jalgaon K P ,1902,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+104,Zpps Jalgaon Supe ,1947,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+105,Zpps Jalochi,1947,Rural,No,1 to 7,Marathi,Local Body,Dhavan Vasti
+106,Zpps Karawagaj,1928,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+107,Zpps Lashkarwasti,1998,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+108,Zpps Medad,1930,Rural,No,1 to 7,Marathi,Local Body,Dhavan Vasti
+109,Zpps Nalepatilwasti,2001,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+110,Zpps Pimpalachamala,1968,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+111,Zpps Sanglewasti,2001,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+112,Zpps Satawwasti,1961,Rural,No,1 to 7,Marathi,Local Body,Dhavan Vasti
+113,Zpps sawakarwasti,2011,Rural,No,1 to 4,Marathi,Local Body,Dhavan Vasti
+114,Zpps Shriramnagar,2006,Rural,No,1 to 4,Marathi, Local Body,Dhavan Vasti
+115,New English School Dorlewadi,1962,Rural,No,5 to 10,Marathi,Pvt.Aided,Dorlewadi
+116,Nikamwasti,1993,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+117,Sant Savtamali English M.school,2009,Rural,No,1 to 7,English,Pvt.Unaided,Dorlewadi
+118,Sant Tukaram maharaj Prathmik Vidyalaya Dorlewadi,2013,Rural,No,1 to 4,Marathi,Pvt.Unaided,Dorlewadi
+119,Shri Chatrapati High Songaon,1989,Rural,No,5 to 10,Marathi,Pvt.Aided,Dorlewadi
+120,Smt.Housabai Pandurang Ghorpade Vidyalay,1991,Rural,No,5 to 10,Marathi,Pvt.Aided,Dorlewadi
+121,"V.p.New,Balvikasmandir,pipali",2005,Rural,No,1 to 10,English,Pvt.Unaided,Dorlewadi
+122,Zpps Barkawadi,1970,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+123,Zpps Dorlewadi,1883,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+124,Zpps Gitepotekarwasti,1962,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+125,Zpps Godhevasti,2005,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+126,Zpps Jadhav Vasti,1987,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+127,Zpps Limtek,1959,Rural,No,1 to 7,Marathi,Local Body,Dorlewadi
+128,Zpps Pimpli,1956,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+129,Zpps Songaon,1931,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+130,Zpps Zargadwadi,1919,Rural,No,1 to 4,Marathi,Local Body,Dorlewadi
+131,Bhairawnath Jansewa Vid,1967,Rural,No,5 to 10,Marathi,Pvt.Aided,Gojubavi
+132,New English School Gojubavi,1994,Rural,No,5 to 10,Marathi,Pvt.Aided,Gojubavi
+133,Zpps Banwadi,2011,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+134,Zpps Barhanpur,1957,Rural,No,1 to 7,Marathi,Local Body,Gojubavi
+135,Zpps Borimala,2008,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+136,Zpps Chinchakar Estate,2011,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+137,Zpps Gojubavi,1953,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+138,Zpps Jadhav Vasti,1998,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+139,Zpps Jaradwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+140,Zpps Morewadi,1950,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+141,Zpps Neptwain,1998,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+142,Zpps Salunkewasti,1958,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+143,Zpps Sawantwadi,1957,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+144,Zpps Sonwadi Supe,1958,Rural,No,1 to 7,Marathi,Local Body,Gojubavi
+145,Zpps Tandulwadi,1950,Rural,No,1 to 7,Marathi,Local Body,Gojubavi
+146,Zpps Undawadi K P ,1928,Rural,No,1 to 4,Marathi,Local Body,Gojubavi
+147,Dnyansagar English Med School Sawal,2013,Rural,Yes,1 to 3,English,Pvt.Unaided,Katewadi
+148,Shri Chhatrapati Highschool Katewadi,1994,Rural,No,5 to 10,Marathi,Pvt.Aided,Katewadi
+149,Zpps Dhekalwadi,1948,Rural,No,1 to 5,Marathi,Local Body,Katewadi
+150,Zpps Kanheri,1959,Rural,No,1 to 5,Marathi,Local Body,Katewadi
+151,Zpps Katewadi,1906,Rural,No,1 to 4,Marathi,Local Body,Katewadi
+152,Zpps Khatalpatta,1948,Rural,No,1 to 7,Marathi,Local Body,Katewadi
+153,Zpps Masalwadi,1963,Rural,No,1 to 4,Marathi,Local Body,Katewadi
+154,Zpps Sawal,1947,Rural,No,1 to 4,Marathi,Local Body,Katewadi
+155,Zpps Thite Dewkatewasti,1961,Rural,No,1 to 4,Marathi,Local Body,Katewadi
+156,Zpps Virkarwasti,1997,Rural,No,1 to 4,Marathi,Local Body,Katewadi
+157,New English School Khalatewasti,1983,Rural,No,5 to 10,Marathi,Pvt.Aided,Korhale Bu
+158,Shree Bhairavnath V.Khorale Ku,2000,Rural,No,5 to 10,Marathi,Pvt.Aided,Korhale Bu
+159,Shri Siddheshwar Vidyayla Korhale Bu,1969,Rural,No,5 to 12,Marathi,Pvt.Aided,Korhale Bu
+160,Shri Siddheshwar Junior College Korhale Bk,2014,Rural,No,8 to 11,English,Pvt.Unaided,Korhale Bu
+161,"Siddheshwar Public School , Korhale Bk",2010,Rural,No,1 to 7,English,Pvt.Unaided,Korhale Bu
+162,Zpps 15 Phata Korhale Bu,1997,Rural,No,1 to 5,Marathi,Local Body,Korhale Bu
+163,Zpps Bajrangwadi,1947,Rural,No,1 to 7,Marathi,Local Body,Korhale Bu
+164,Zpps Katewadi,2010,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+165,Zpps Khalatewasti,1948,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+166,Zpps Korhale Bu,1906,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+167,Zpps Korhale Kh,1914,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+168,Zpps Kurnewadi,1948,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+169,Zpps Late,1933,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+170,Zpps Laxminagar,2011,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+171,Zpps Matkar Vasti,1988,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+172,Zpps Naikmala,1997,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+173,Zpps Pingalewasti,1984,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+174,Zpps Sawantwasti,1967,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+175,Zpps Shirshne,1907,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+176,Zpps Thopatewasti,1938,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+177,Zpps Malshikare Vasti,1949,Rural,No,1 to 4,Marathi,Local Body,Korhale Bu
+178,Antaraow Pawar M.V.palshi,2002,Rural,No,8 to 10,Marathi,Pvt.Unaided,Loni Bhapkar
+179,New English School LoniBhapkar,1979,Rural,No,5 to 12,Marathi,Pvt.Aided,Loni Bhapkar
+180,Zpps Barvkar Vasti,1962,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+181,Zpps Bhapkarwasti,1963,Rural,Yes,1 to 4,Marathi,Local Body,Loni Bhapkar
+182,Zpps Jagdalewadi,1951,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+183,Zpps Karewasti,2000,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+184,Zpps LoniBhapkar,1867,Rural,Yes,1 to 4,Marathi,Local Body,Loni Bhapkar
+185,Zpps Malwadi,1949,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+186,Zpps Masalwadi,1953,Rural,No,1 to 7,Marathi,Local Body,Loni Bhapkar
+187,Zpps Palashi,1958,Rural,No,1 to 7,Marathi,Local Body,Loni Bhapkar
+188,Zpps Phondwada,1955,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+189,Zpps Sawatamalinagar,2000,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+190,Zpps Sayambachiwadi,1949,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+191,Zpps Shindemala,1983,Rural,No,1 to 4,Marathi,Local Body,Loni Bhapkar
+192,Zpps Thombarewasti,1997,Rural,Yes,1 to 4,Marathi,Local Body,Loni Bhapkar
+193,Bajirao Gawade Patil Vidyalaya Gunwadi,2004,Rural,No,8 to 10,Marathi,Pvt.Unaided,Malad
+194,Podar International School Baramati,2014,Rural,Yes,1 to 7,English,Pvt.Unaided,Malad
+195,"Vidya Pratishtan kala,Vidnayan, Wanijya Mahavidyalay",1994,Rural,No,11 to 12,Marathi,Pvt.Aided,Malad
+196,Vidya Pratishtan English Medium School Vidyanagari Baramati,1994,Rural,Yes,1 to 12,English,Pvt.Unaided,Malad
+197,Vidya Pratishtan Marathi Mad,1992,Rural,No,5 to 10,Marathi,Pvt.Aided,Malad
+198,Vidya Pratishtan Marathi Primary School,1993,Rural,Yes,1 to 4,Marathi,Pvt.Aided,Malad
+199,Vidya Pratishtan New English Medium School,2004,Rural,Yes,1 to 10,English,Pvt.Unaided,Malad
+200,Vijay Bal Vikas Mandir Madhyamik Vidyalaya Bandalwadi,2001,Rural,No,9 to 10,Marathi,Pvt.Unaided,Malad
+201,Vijay Bal Vikas Mandir Badalwadi,2001,Rural,No,1 to 8,Marathi,Pvt.Aided,Malad
+202, Zpps 29 Phata,1997,Rural,No,1 to 4,Marathi,Local Body,Malad
+203,Zpps Bandalwadi,1958,Rural,No,1 to 4,Marathi,Local Body,Malad
+204,Zpps Bhaiyawasti,1997,Rural,No,1 to 5,Marathi,Local Body,Malad
+205,Zpps Datewasti,1957,Rural,No,1 to 4,Marathi,Local Body,Malad
+206,Zpps Dattawadi,1989,Rural,No,1 to 4,Marathi,Local Body,Malad
+207,Zpps Dhelewasti,1959,Rural,No,1 to 4,Marathi,Local Body,Malad
+208,Zpps Gunawadi,1913,Rural,No,1 to 7,Marathi,Local Body,Malad
+209,Zpps Malad,1948,Rural,No,1 to 7,Marathi,Local Body,Malad
+210,Zpps Rui,1948,Rural,No,1 to 7,Marathi,Local Body,Malad
+211,Zpps Vittalwadi Gunwadi,1958,Rural,No,1 to 4,Marathi,Local Body,Malad
+212,English Medium School Bhikobanagar,2013,Urban,No,1 to 2,English,Pvt.Unaided,Manappa Vasti
+213,Jijau Dnyan Mandir English Med School ,2012,Rural,Yes,1 to 1,English,Pvt.Unaided,Manappa Vasti
+214,Nav Mah Vid Pandare,1960,Rural,No,5 to 12,Marathi,Pvt.Aided,Manappa Vasti
+215,Sarswati Mah Vid Pandare,1960,Rural,No,5 to 12,Marathi,Pvt.Aided,Manappa Vasti
+216,Sh.vithoba Pri Vidya Mandir Bh,1994,Rural,Yes,1 to 4,Marathi,Pvt.Aided,Manappa Vasti
+217,Sh.vithoba Pri Vidya Mandir Bh,1983,Rural,No,5 to 12,Marathi,Pvt.Aided,Manappa Vasti
+218,Shivpuri,1997,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+219,Zpps Ahilyanagr,1963,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+220,Zpps Dhumalwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+221,Zpps Kokarewasti,1962,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+222,Zpps Manappawasti,1955,Rural,Yes,1 to 7,Marathi,Local Body,Manappa Vasti
+223,Zpps Mhasobawadi,1948,Rural,No,1 to 7,Marathi,Local Body,Manappa Vasti
+224,Zpps Pandare,1943,Rural,No,1 to 7,Marathi,Local Body,Manappa Vasti
+225,Zpps Pawaimal,1948,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+226,Zpps Sagobawadi,1946,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+227,Zpps Sonkaswadi,1947,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+228,Zpps irigeshion Banglow,2001,Rural,No,1 to 4,Marathi,Local Body,Manappa Vasti
+229,Mayureshwar High Morgaon,1962,Rural,No,5 to 12,Marathi,Pvt.Aided,Morgaon
+230,Raje Pratishtan New English School,2008,Rural,Yes,1 to 8,English ,Pvt.Unaided,Morgaon
+231,Shree Ganesh Vidlaya(eng Med),2009,Rural,No,1 to 5,English,Pvt.Unaided,Morgaon
+232,Someshwar Vid Aambi,1993,Rural,No,5 to 10,Marathi,Pvt.Aided,Morgaon
+233,Zpps Aambi Bk,1913,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+234,Zpps Anambi Kh,1956,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+235,Zpps Chandgudewadi,1957,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+236,Zpps Chopanwasti,1966,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+237,Zpps Dholemala,1948,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+238,Zpps Hanmannagar,2002,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+239,Zpps Khandukhairewadi,1962,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+240,Zpps Lavatevasti,2001,Rural,No,1 to 4 ,Marathi,Local Body,Morgaon
+241,Zpps Malwadi,1971,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+242,Zpps Mane Karadevasti,2004,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+243,Zpps Mangobachiwadi,1996,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+244,Zpps Moragaon,1865,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+245,Zpps Patilbuvamala,1998,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+246,Zpps Pawarwadi,1978,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+247,Zpps Sherachiwasti,1970,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+248,Zpps Sherejadhavvasti,2003,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+249,Zpps Tambedhaygudevasti,2002,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+250,Zpps Tardoli,1930,Rural,No,1 to 4,Marathi,Local Body,Morgaon
+251,Shivaji Vid Murti,1961,Rural,No,5 to 10,Marathi,Pvt.Aided,Murti
+252,Y B C Aashram School Modhawe,1996,Rural,No,1 to 7,Marathi,Pvt.Aided,Murti
+253,Zpps Bhagatwasti,2011,Rural ,No,1 to 4,Marathi,Local Body,Murti
+254,Zpps Bhoitewadi,1957,Rural,No,1 to 4,Marathi,Local Body,Murti
+255,Zpps Chirekhanwadi,1947,Rural,No,1 to 4,Marathi,Local Body,Murti
+256,Zpps Gadadevasti,2002,Rural,No,1 to 4,Marathi,Local Body,Murti
+257,Zpps Jogwadi,1956,Rural,No,1 to 4,Marathi,Local Body,Murti
+258,Zpps Karandemala,1998,Rural,No,1 to 4,Marathi,Local Body,Murti
+259,Zpps Modhave,1956,Rural,No,1 to 4,Marathi,Local Body,Murti
+260,Zpps Moralwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Murti
+261,Zpps Morewadi,1959,Rural,No,1 to 4,Marathi,Local Body,Murti
+262,Zpps Motewadi No. 1,2001,Rural,No,1 to 4,Marathi,Local Body,Murti
+263,Zpps Motewadi No.2,2003,Rural,No,1 to 4,Marathi,Local Body,Murti
+264,Zpps Murti,1904,Rural,No,1 to 4,Marathi,Local Body,Murti
+265,Zpps Tambewadi,1971,Rural,No,1 to 4,Marathi,Local Body,Murti
+266,Zpps Umbar Odha,1952,Rural,No,1 to 4,Marathi,Local Body,Murti
+267,Mad Vid Khandobachiwadi,1996,Rural,No,5 to 10,Marathi,Pvt.Aided,Nimbut
+268,Madhyamik Aashram Waghlwade,2004,Rural,No,8 to 12,Marathi,Pvt.Aided,Nimbut
+269,Sahayadri Public School Khandobachiwadi,2013,Rural,Yes,1 to 8,English,Pvt.Unaided,Nimbut
+270,"Shri Babalal Sahebrao Kakade Vid, Nimbut",1999,Rural,No,5 to 10,Marathi,Pvt.Aided,Nimbut
+271,Utkarsha Primary Ashram Shala Waghalwadi,1994,Rural,No,1 to 7,Marathi,Pvt.Aided,Nimbut
+272,Zpps Gaddarwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+273,Zpps Kanherwadi,1949,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+274,Zpps Khandobachiwadi,1948,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+275,Zpps Koliwasti,1955,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+276,Zpps Laxminagar,1992,Rural,No,1 to 4,Maarthi,Local Body,Nimbut
+277,Zpps Malimala,1963,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+278,Zpps Nimbut,1917,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+279,Zpps Nimbutchapari,1960,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+280,Zpps Patharwasti,2006,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+281,Zpps Waghalwadi,1920,Rural,No,1 to 4,Marathi,Local Body,Nimbut
+282,Ajitdada English Medium School Katphal,2013,Urban,Yes,1 to 3,English,Pvt.Unaided,Parawadi
+283,Gavandvasti,2001,Rural,No,1 to 4,Marathi,Local Body,Parawadi
+284,Kai. Jijabai Dadasaheb Gavade Eng Med Sch,2014,Rural,Y,1 to 4,English,Pvt.Unaided,Parawadi
+285,Kai.jijabai Dadasaheb Gawade Vid. Parawadi,1991,Rural,N,5 to 12,Mararthi,Pvt.Aided,Parawadi
+286,S.c.hischool Nibodi,2000,Rural,N,5 to 10,Marathi,Pvt.Aided,Parawadi
+287,Zpps Ambarwasti,1992,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+288,Zpps Balgudepatta,1958,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+289,Zpps Bhisrshipkulevasti,2001,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+290,Zpps Chodharvasti,2001,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+291,Zpps Dhasiwadi,1972,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+292,Zpps Gavadevasti,2006,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+293,Zpps Jainakwadi,1946,Rural,N,1 to 4,Marathi,Local Body,Parawadi
+294,Zpps Katphal,,,,,,,
+295,Zpps Malkhopwasti,,,,,,,
+296,Zpps Nimbodi,,,,,,,
+297,Zpps Parwadi,,,,,,,
+298,Zpps Pawarkhumbharvasti,,,,,,,
+299,Zpps Wanjarwadi,,,,,,,
+300,Karmavir Bhaurao Patil Vid. & Jr. College Sangavi,1959,Rural,No,5 to 12,Marathi,Pvt.Aided,Shiravali
+301,Shree Sai English Med School Sangavi,2012,Rural,Yes,1 to 3,English,Pvt.Unaided,Shiravali
+302,Tawarewasti,1948,Rural,No,1 to 4,Marathi,Local Body,Shiravali
+303,Vitthal Mad Kambaleshwar,1994,Rural,No,5 to 10,Marathi,Pvt.Aided,Shiravali
+304,Zpps Bargewadi,1948,Rural,No,1 to 4,Marathi,Local Body,Shiravali
+305,Zpps Barvwasti,1948,Rural,No,1 TO 5,Marathi,Local Body,Shiravali
+306,Zpps Ganwatwasti,1959,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+307,Zpps Hagarewasti,1947,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+308,Zpps Jadhavwasti,1970,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+309,Zpps Kambaleshwar,1911,Rural,No,1 TO 5,Marathi,Local Body,Shiravali
+310,Zpps Khandaj,1922,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+311,Zpps Khandeshwari Mad Vid,1994,Rural,No,5 TO 10,Marathi,Pvt.Aided,Shiravali
+312,Zpps Phondkulewasti,2000,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+313,Zpps Sangavi,1911,Rural,No,1 TO 7,Marathi,Local Body,Shiravali
+314,Zpps Shirawali,1948,Rural,No,1 TO 7,Marathi,Local Body,Shiravali
+315,Zpps Vabalewasti,1966,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+316,Zpps Vitthalwadi,1958,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+317,Zpps Waghwasti,1987,Rural,No,1 TO 4,Marathi,Local Body,Shiravali
+318,Shri Shirsai Vid Shirsuphal,1982,Rural,N,5 to 10,Marathi,Pvt.Aided,Shirsuphal
+319,Zpps Bhagatwadi,1962,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+320,Zpps Dhawadegavdewasti,1953,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+321,Zpps Dhaytondewasti,2004,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+322,Zpps Gadikhel,1954,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+323,Zpps Garmala,1967,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+324,Zpps Golandwadi,1960,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+325,Zpps Madhalamala,1989,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+326,Zpps Mahadeomala,1967,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+327,Zpps Paritwadi,1997,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+328,Zpps Sablewadi,1948,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+329,Zpps Shindewadi Gadikhel,1963,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+330,Zpps Shirsuphal,1920,Rural,N,1 to 7,Marathi,Local Body,Shirsuphal
+331,Zpps.tilekarvasti,2005,Rural,N,1 to 4,Marathi,Local Body,Shirsuphal
+332,Aandabai Jadhavrao Kanya Sch,1923,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+333,Dnyaneeip Balak Mandir Malegaon Bk,1995,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+334,S S M High School Malegaon,1947,Rural,N ,5 to 10,Marathi,Local Body,Shivnagar
+335,S.v.p.m English M.malegaon Bu,2001,Rural,N,1 to 10,English,Pvt. Unaided,Shivnagar
+336,Shardabai Pawar Mahila Mahavidlaya Shardanagar,1991,Rural,N,11 to 12,English,Pvt. Aided,Shivnagar
+337,Shardabai Pawar Vid. & Junior College Shivnagar,1978,Rural,N,5 to 12,Marathi,Pvt. Aided,Shivnagar
+338,Shardabai Pawar Vidya Mandir Shardanagar,1990,Rural,Y,1 to 4,Marathi,Pvt. Aided,Shivnagar
+339,Shardabai Pawar Vidya Niketan Shardanagar,1991,Rural,N,5 to 11,Marathi,Pvt. Aided,Shivnagar
+340,Shishuvihar Primary School Shivnagar,1974,Rural,Y,1 to 4,Marathi,Pvt. Unaided,Shivnagar
+341,Zpps Chavanvasti,2001,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+342,Zpps Gophnewasti,1982,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+343,Zpps Malegaon Bk No 1,1880,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+344,Zpps Malegaon Colony,1934,Rural,N,1 to 7,Marathi,Local Body,Shivnagar
+345,Zpps Malegaon Kh,1914,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+346,Zpps Pahunewadi,1930,Rural,N,1 to 7,Marathi,Local Body,Shivnagar
+347,Zpps Phalkewasti,1984,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+348,Zpps Shivnagar 1,1976,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+349,Zpps Shivnagar N 2,1981,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+350,Zpps Yeledhalewasti,1948,Rural,N,1 to 4,Marathi,Local Body,Shivnagar
+351,MAD VID SORTEWADI,1993,Rural,N,5 to 10,Marathi,Pvt. Aided,Someshwar Nagar
+352,MUGUTRAO SAHEBRAO KAKADE MAHAVIDLAYA SOMESHWARNAGAR,1976,Rural,N,11 to 12,Marathi,Pvt. Aided,Someshwar Nagar
+353,NEW ENGLISH SCHOOL WAKEWADI,1968,Rural,N,5 to 12,Marathi,Pvt. Aided,Someshwar Nagar
+354,SHENDKARWADI,1958,Rural,N,1 to 4,Marathi,Pvt. Aided,Someshwar Nagar
+355,SOMESHWAR PUBLIC SCHOOL SOMESHWARNAGAR,1975,Rural,Y,1 to 6,Marathi,Pvt. Aided,Someshwar Nagar
+356,SOMESHWAR VIDHYALAY & JR.COLLEGE (SCI) SOMESHWARNAGAR,1977,Rural,N,5 to 12,Marathi,Pvt. Aided,Someshwar Nagar
+357,V P SOMESHWAR ENGLISH MEDIUM SCHOOL,2007,Rural,Y,1 to 10,English,Pvt. Aided,Someshwar Nagar
+358,ZPPS DEULWADI,1960,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+359,ZPPS JOSHIWADI,2004,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+360,ZPPS KADAMWASTI,1948,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+361,ZPPS KARMJE,1918,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+362,ZPPS KARNAJEPUL,1989,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+363,ZPPS MAGARWADI,1995,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+364,ZPPS MALASHI,1948,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+365,ZPPS MALWADI(KARANJE),2002,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+366,ZPPS MURUM,1897,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+367,ZPPS NAIKWADI,1960,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+368,ZPPS RAMNAGAR,1998,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+369,ZPPS SALOBAWASTI,1973,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+370,ZPPS SCHOOL CHAUDHARWADI,1947,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+371,ZPPS SOMESHWANAGAR,1965,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+372,ZPPS SORATEWADI,1948,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+373,ZPPS WANEWADI,1908,Rural,N,1 to 4,Marathi,Local Body,Someshwar Nagar
+374,BHIRAVANATH V.BABURDI,1994,Rural,N,5 to 10,Marathi,Pvt. Aided,Supe
+375,PRAJKTA MATIMAND NIVASI VID.SUPE,2002,Rural,N,1 to 4,Marathi,Pvt. Aided,Supe
+376,SHRI SHAHAJI HIGH SUPE,1960,Rural,N,5 to 12,Marathi,Pvt. Aided,Supe
+377,ZPPS BABURDI,1919,Rural,N,1 to 4,Marathi,Local Body,Supe
+378,ZPPS BHONDWEWADI,1911,Rural,N,1 to 4,Marathi,Local Body,Supe
+379,ZPPS BORKARWADI,1948,Rural,N,1 to 7,Marathi,Local Body,Supe
+380,ZPPS KALKHAIREWADI,1954,Rural,N,1 to 4,Marathi,Local Body,Supe
+381,ZPPS KOLEWASTI,1960,Rural,N,1 to 4,Marathi,Local Body,Supe
+382,ZPPS KUDALEMALA ,2004,Rural,N,1 to 4,Marathi,Local Body,Supe
+383,ZPPS KUTAWALWADI,1948,Rural,N,1 to 4,Marathi,Local Body,Supe
+384,ZPPS PANSAREWADI,1949,Rural,N,1 to 4,Marathi,Local Body,Supe
+385,ZPPS PATHAREVASTI,2003,Rural,N,1 to 4,Marathi,Local Body,Supe
+386,ZPPS RAJBAG,1958,Rural,N,1 to 4,Marathi,Local Body,Supe
+387,ZPPS SHERECHIWADI,1948,Rural,N,1 to 4,Marathi,Local Body,Supe
+388,ZPPS SUPE NO 1,1864,Rural,N,1 to 4,Marathi,Local Body,Supe
+389,ZPPS SUPE NO 2,1948,Rural,N,1 to 4,Marathi,Local Body,Supe
+390,ZPPS TAMBEVASTI,2004,Rural,N,1 to 4,Marathi,Local Body,Supe
+391,ZPPS TARTEVASTI,2004,Rural,N,1 to 4,Marathi,Local Body,Supe
+392,ZPPS WADHANE,1938,Rural,N,1 to 4,Marathi,Local Body,Supe
+393,ZPPS.GAIKWAD DHOPAREVASTI,2006,Rural,N,1 to 4,Marathi,Local Body,Supe
+394,ZPPS.KHOREMALA,2004,Rural,N,1 to 4,Marathi,Local Body,Supe
+395,NEW ENGLISH SCHOOL DHAKALE,1998,Rural,N,8 to 10,Marathi,Pvt. Adided,Wadgaon Nimbalkar
+396,SOMESHWAR VIDHYLAYA MUDHALE,1993,Rural,N,5 to 10,Marathi,Pvt. Adided,Wadgaon Nimbalkar
+397,SWTANTRYA VID.MANDIR WADGAON NIM.,1953,Rural,N,5 to 12,Marathi,Pvt. Adided,Wadgaon Nimbalkar
+398,SOMESHWAR VIDHYLAYA MUDHALE,1993,Rural,N,5 to 10,Marathi,Pvt. Adided,Wadgaon Nimbalkar
+399,ZPPS DAREKARWADI,1962,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+400,ZPPS DHAKALE,1920,Rural,N,1 to 7,Marathi,Local Body,Wadgaon Nimbalkar
+401,ZPPS JADHAWADI BARAMATI,1948,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+402,ZPPS JAIPATREWADI,1948,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+403,ZPPS JAIPATREWADI GAONTHAN,1992,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+404,ZPPS JALKEWADI,1948,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+405,ZPPS KHAMGALWADI,1964,Rural,N,1 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+406,ZPPS KINGARE PARANDE MALA,1962,Rural,N,2 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+407,ZPPS LOKHNDWADI ,1980,Rural,N,3 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+408,ZPPS MUDHALE ,1897,Rural,N,4 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+409,ZPPS THOMBAREWADI,1999,Rural,N,5 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+410,ZPPS THOMBAREWADI NO.2,2010,Rural,N,6 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+411,ZPPS WABALEWASTI,2000,Rural,N,7 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+412,ZPPS WADGAON NIMBALKAR NO1,1823,Rural,N,8 to 4,Marathi,Local Body,Wadgaon Nimbalkar
+413,ZPPS WADGAON NIMBALKAR NO2,1927,Rural,N,9 to 4,Marathi,Local Body,Wadgaon Nimbalkar
